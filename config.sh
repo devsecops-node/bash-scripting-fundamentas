@@ -5,6 +5,6 @@
 # Usage: ./hello 
 
 clear
-echo hello world
+echo hello World
 
 exit 0
