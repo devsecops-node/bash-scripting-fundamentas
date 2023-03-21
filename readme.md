@@ -9,3 +9,4 @@
 ### LEsson 2
 - `bash -x script.sh` -> to see the process
 - `system`
+- **2.5 Sourcing**: . /root/sourceme on lesson2/master
